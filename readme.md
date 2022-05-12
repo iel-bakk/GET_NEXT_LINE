@@ -1,27 +1,25 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    pinters.txt                                        :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: iel-bakk <marvin@42.fr>                    +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2021/12/21 14:13:18 by iel-bakk          #+#    #+#              #
-#    Updated: 2021/12/21 15:03:04 by iel-bakk         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
 
-In this readme file i'll be talking about the code of my "get next line" project so read carefully ^^.
+<h1> pointers to get next line project </h1>
+<hr>
+<p>
+In this readme file i'll be talking about the code of my <b>get next line</b> project so read carefully ^^.
 
 But, before we dive into the code let's discuss the big picture of this project.
-
+</p>
+<div>
 This project is part of the 42 cursus commun core. (GET_NEXT_LINE)
-NOTICE : if you're also working on this project please check if the subject is the same as this one to avoid any problemes.
+	<h5>NOTICE</h5> : if you're also working on this project please check if the subject is the same as this one to avoid any problemes.
         even if your not a 42 student you can do these project to undrestand new concepts.
         and happy coding (iel-bakk).
-I'll start talking about what get next line would add to your knowledge see, the get next line project aims to teach you :
-first : how to read from a file using a file descriptor.
-second : what are static variables.
-third : how to avoid leaks.
+</div>
+<div>
+<ul>
+	<p>I'll start talking about what get next line would add to your knowledge see, the get next line project aims to teach you :</p>
+	<li> how to read from a file using a file descriptor.</li>
+	<li> what are static variables.</li>
+	<li> how to avoid leaks.</li>
+	</ul>
+</div>
 
 These are what i think the things that you will need to know in order to get this project done.
 The emplementation of these tools (the three thing i mentioned above) in your code will be the judge of your codes quality.
@@ -68,10 +66,10 @@ Mifree function was made to free two strings at once, to use less lines (XD).
 And this is what are code is all about, hope you learned something ^^.
 
 ressources :
-                        file descriptor : https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms
-                        read systeme call : https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
-                        static variable : https://www.tutorialspoint.com/where-are-static-variables-stored-in-c-cplusplus#:~:text=Static%20variables%20are%20variables%20that,is%20the%20entire%20program%20run.&                       text=All%20the%20static%20variables%20that,known%20as%20the%20BSS%20segment).
+                        <a href="https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms">file descriptor</a>
+                        <a href="https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/">read systeme call</a>
+                        <a href="https://www.tutorialspoint.com/where-are-static-variables-stored-in-c-cplusplus#:~:text=Static%20variables%20are%20variables%20that,is%20the%20entire%20program%20run.&">static variable</a>
 
 
-											iel-bakk (1337 student); 
+											<h5>iel-bakk (1337 student)</h5>
 
