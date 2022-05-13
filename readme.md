@@ -62,7 +62,6 @@ This remainder will be either :
 		<li>If our reminder dosen't contain a new line, we will be reading and joining what we read with our remainder to check for the possibility of having a new line.</li>
 	</ol>
 </ol>
-<p>
 I've been talking about the filtering process for a while, you should be curious how we will be filltering (heheeee this is where the fun beggins).
 <br>
 To fillter we will always be having two values wich are as you probsbly guessed "line" and "reminder", to get this values i struggeled a lot to keep them and also the check if they were valid or not, so with on of my peers (yel-mrab) we used a structure called s_data (you will find it in the .h file (header)), so this structure we'll be holding for us the values of the line ,the reminder and the fail_checker.
@@ -73,7 +72,6 @@ Last but not least, we will be talking about leaks, to avoid leaks we will be us
 Mifree_data function was made to free the struct's content (the heap addresses holded by the two pointers) when a problem occurs and set the fail to 1.
 <br>
 Mifree function was made to free two strings at once, to use less lines (XD).
-<p>
 And this is what are code is all about, hope you learned something ^^.
 
 <h2>ressources :</h2>
