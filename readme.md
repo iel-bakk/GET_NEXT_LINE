@@ -84,9 +84,9 @@ Mifree function was made to free two strings at once, to use less lines (XD).
 And this is what are code is all about, hope you learned something ^^.
 </p>
 <h2>ressources :</h2>
-                        <a href="https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms">file descriptor</a>
+                        <a href="https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms">File descriptor</a>
 			<hr>
-                        <a href="https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/">read systeme call</a>
+                        <a href="https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/">Read System Call</a>
                         <hr>
-			<a href="https://www.tutorialspoint.com/where-are-static-variables-stored-in-c-cplusplus#:~:text=Static%20variables%20are%20variables%20that,is%20the%20entire%20program%20run.&">static variable</a>
-															<h3>Iel-bakk</h3>
+			<a href="https://www.tutorialspoint.com/where-are-static-variables-stored-in-c-cplusplus#:~:text=Static%20variables%20are%20variables%20that,is%20the%20entire%20program%20run.&">Static variable</a>
+															<h3>Iel-bakk 1337 Student</h3>
