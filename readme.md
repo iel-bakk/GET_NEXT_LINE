@@ -35,7 +35,7 @@ After getting our file descriptor with the reading permission we can read form o
 </ul>
 these are the rules concerning the output of our function (mandatory part ofcours).
 
-<h2>Now, we can dive thru our code.<h2>
+<h2>Now, we can dive thru our code.</h2>
 <p>
 So first of all, our goal is to read from a file, for that we need to get the file's file descriptor, i'll be putting some ressources down bellow.
 After getting our file descriptor we should check if it's a valid one or not, if it isn't valid we return null and our program will quit.
