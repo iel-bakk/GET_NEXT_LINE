@@ -20,11 +20,11 @@ This project is part of the 42 cursus commun core. (GET_NEXT_LINE)
 </ol>
 </div>
 
-These are what i think the things that you will need to know in order to get this project done.
-The emplementation of these tools (the three thing i mentioned above) in your code will be the judge of your codes quality.
+These are the things you will need to know in order to get this project done.
+The emplementation of these tools (the three things i mentioned above) in your code will be the judge of your codes quality.
 
-As i said before the goal of this project is to be able to read a file line by line with the '\n' included in each line.
-So as a first step we need to get our hands on The file descriptor wich will be our key to access the file in order to read from it, this file discreptor is something that we get by calling the system call (OPEN).
+As i said before the goal of this project is to be able to read from a file line by line with the '\n' included in each line.
+So as a first step we need to get our hands on The file descriptor wich will be our key to access the file in order to read from it, this file discreptor is something that we get by calling the system call (BSD) OPEN.
 After getting our file descriptor with the reading permission we can read form our file, but while reading ther are some rules that we must not break and these rules are :
 <ul>
         <li><b>YOU CAN READ ONLY A LIMITED NUMBER OF BYTES EACH TIME YOU CALL READ.</b></li>
