@@ -8,7 +8,7 @@ But, before we dive into the code let's discuss :
 <div>
 This project is part of the 42 cursus commun core. (GET_NEXT_LINE)
 	<h5>NOTICE :</h5>if you're also working on this project please check if the subject is the same as this one to avoid any problemes.
-        even if your not a 42 student you can do these project to undrestand new concepts, 
+        even if your not a 42 student you can creat these project to get a grep of new concepts, 
         and happy coding (iel-bakk).
 </div>
 <div>
